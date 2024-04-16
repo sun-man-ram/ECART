@@ -8,7 +8,7 @@ I have tried to include as many  software enginerring principle to write a clean
   </p>
 <p>
   <h2>
-The basic logic in this code is quite Different from the existing projects in github this  code uses file as a  data structure and all the columns as attributes of products like id name quantity price etc its a fun project.I have tried to mimic Oops concepts in C language using my own header file and then haveing multiple functions.although its not oops :) a kind offf oops
+The basic logic in this code is quite Different from the existing projects in github this  code uses file as a  data structure and all the columns as attributes of products like id name quantity price etc and accordingly it performs various operations using row count column count  its a fun project.I have tried to mimic Oops concepts in C language using my own header file and then haveing multiple functions.although its not oops :) a kind offf oops
     
   </h2>  
 </p>

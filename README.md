@@ -1,5 +1,5 @@
 <h1>
-  This is a Basic Ecart menu Driven Program writtnen in C langaugue.
+Hi 👋,  This is a Basic Ecart menu Driven Program writtnen in C langaugue.
 </h1>
 <p>
 <h2>
